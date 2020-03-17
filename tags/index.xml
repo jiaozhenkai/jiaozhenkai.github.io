@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jiao Zhenkai</title>
+    <title>Tags on Jiao ZhenKai</title>
     <link>https://jiaozhenkai.com/tags/</link>
-    <description>Recent content in Tags on Jiao Zhenkai</description>
+    <description>Recent content in Tags on Jiao ZhenKai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Deployment</title>
-      <link>https://jiaozhenkai.com/tags/Deployment/</link>
+      <title>kubernetes Deployment</title>
+      <link>https://jiaozhenkai.com/tags/kubernetes-Deployment/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jiaozhenkai.com/tags/Deployment/</guid>
+      <guid>https://jiaozhenkai.com/tags/kubernetes-Deployment/</guid>
       <description></description>
     </item>
     

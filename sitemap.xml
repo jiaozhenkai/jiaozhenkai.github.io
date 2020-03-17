@@ -8,17 +8,17 @@
   </url>
   
   <url>
-    <loc>https://jiaozhenkai.com/tags/Deployment/</loc>
-    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jiaozhenkai.com/categories/kubernetes/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jiaozhenkai.com/post/2020-03-17-kubernetes-Deployment/</loc>
+    <lastmod>2020-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jiaozhenkai.com/tags/kubernetes-Deployment/</loc>
     <lastmod>2020-03-17T00:00:00+00:00</lastmod>
   </url>
   
