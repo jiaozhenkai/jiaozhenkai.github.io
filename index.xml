@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiao Zhenkai</title>
+    <link>https://jiaozhenkai.com/</link>
+    <description>Recent content on Jiao Zhenkai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 20 Mar 2016 23:28:02 +0800</lastBuildDate>
+    
+	<atom:link href="https://jiaozhenkai.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://jiaozhenkai.com/about/</link>
+      <pubDate>Sun, 20 Mar 2016 23:28:02 +0800</pubDate>
+      
+      <guid>https://jiaozhenkai.com/about/</guid>
+      <description>关于 Hugo 主题</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://jiaozhenkai.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiaozhenkai.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://jiaozhenkai.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiaozhenkai.com/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
