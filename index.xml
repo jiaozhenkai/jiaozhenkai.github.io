@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Kubernetes Deployment</title>
+      <link>https://jiaozhenkai.com/post/2020-03-17-kubernetes-Deployment/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiaozhenkai.com/post/2020-03-17-kubernetes-Deployment/</guid>
+      <description>Deployment 结构 1 2 3 4 5 6 7 8 9 type Deployment struct { metav1.TypeMeta `json:&amp;#34;,inline&amp;#34;` metav1.ObjectMeta `json:&amp;#34;metadata,omitempty&amp;#34; protobuf:&amp;#34;bytes,1,opt,name=metadata&amp;#34;` Spec DeploymentSpec `json:&amp;#34;spec,omitempty&amp;#34; protobuf:&amp;#34;bytes,2,opt,name=spec&amp;#34;` Status DeploymentStatus `json:&amp;#34;status,omitempty&amp;#34; protobuf:&amp;#34;bytes,3,opt,name=status&amp;#34;` }</description>
+    </item>
+    
+    <item>
       <title>about</title>
       <link>https://jiaozhenkai.com/about/</link>
       <pubDate>Sun, 20 Mar 2016 23:28:02 +0800</pubDate>
