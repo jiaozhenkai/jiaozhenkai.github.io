@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jiao ZhenKai</title>
-    <link>https://jiaozhenkai.com/post/</link>
-    <description>Recent content in Posts on Jiao ZhenKai</description>
+    <title>kubernetes Overview on Jiao ZhenKai</title>
+    <link>https://jiaozhenkai.com/tags/kubernetes-Overview/</link>
+    <description>Recent content in kubernetes Overview on Jiao ZhenKai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jiaozhenkai.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiaozhenkai.com/tags/kubernetes-Overview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://jiaozhenkai.com/post/kubernetes-overview/</guid>
       <description>Kubernetes 概览 吃了</description>
-    </item>
-    
-    <item>
-      <title>Kubernetes Deployment</title>
-      <link>https://jiaozhenkai.com/post/kubernetes-deployment/</link>
-      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jiaozhenkai.com/post/kubernetes-deployment/</guid>
-      <description>Deployment 结构 1 2</description>
     </item>
     
   </channel>

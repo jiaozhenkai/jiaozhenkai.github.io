@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>Kubernetes Overview</title>
+      <link>https://jiaozhenkai.com/post/kubernetes-overview/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiaozhenkai.com/post/kubernetes-overview/</guid>
+      <description>Kubernetes 概览 吃了</description>
+    </item>
+    
+    <item>
       <title>Kubernetes Deployment</title>
       <link>https://jiaozhenkai.com/post/kubernetes-deployment/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jiaozhenkai.com/post/kubernetes-deployment/</guid>
-      <description>Deployment 结构 1 2 3 4 5 6 7</description>
+      <description>Deployment 结构 1 2</description>
     </item>
     
     <item>
@@ -26,7 +35,7 @@
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jiaozhenkai.com/about/</guid>
-      <description>作者 go kubernetes 初学者，记录</description>
+      <description>作者 go kubernetes 初</description>
     </item>
     
     <item>

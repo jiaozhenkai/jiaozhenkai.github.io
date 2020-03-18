@@ -6,10 +6,19 @@
     <description>Recent content in kubernetes on Jiao ZhenKai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jiaozhenkai.com/categories/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kubernetes Overview</title>
+      <link>https://jiaozhenkai.com/post/kubernetes-overview/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jiaozhenkai.com/post/kubernetes-overview/</guid>
+      <description>Kubernetes 概览 吃了</description>
+    </item>
     
     <item>
       <title>Kubernetes Deployment</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jiaozhenkai.com/post/kubernetes-deployment/</guid>
-      <description>Deployment 结构 1 2 3 4 5 6 7</description>
+      <description>Deployment 结构 1 2</description>
     </item>
     
   </channel>
