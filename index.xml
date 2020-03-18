@@ -6,27 +6,27 @@
     <description>Recent content on Jiao ZhenKai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Mar 2016 23:28:02 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jiaozhenkai.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kubernetes Deployment</title>
-      <link>https://jiaozhenkai.com/post/2020-03-17-kubernetes-Deployment/</link>
+      <link>https://jiaozhenkai.com/post/kubernetes-deployment/</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jiaozhenkai.com/post/2020-03-17-kubernetes-Deployment/</guid>
+      <guid>https://jiaozhenkai.com/post/kubernetes-deployment/</guid>
       <description>Deployment 结构 1 2 3 4 5 6 7</description>
     </item>
     
     <item>
-      <title>about</title>
+      <title>关于</title>
       <link>https://jiaozhenkai.com/about/</link>
-      <pubDate>Sun, 20 Mar 2016 23:28:02 +0800</pubDate>
+      <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jiaozhenkai.com/about/</guid>
-      <description>关于 Hugo 主题</description>
+      <description>作者 go kubernetes 初学者，记录</description>
     </item>
     
     <item>
